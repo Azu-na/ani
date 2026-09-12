@@ -1,0 +1,94 @@
+[
+  {
+    "name": "AllManga",
+    "packageName": "eu.kanade.tachiyomi.extension.en.allanime",
+    "resources": {
+      "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/28949a7/tachiyomi-en.allanime-v1.6.29.apk",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/allanime/res/mipmap-xhdpi/ic_launcher.png",
+      "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/28949a7/tachiyomi-en.allanime-v1.6.29.jar"
+    },
+    "extensionLib": "1.6",
+    "versionCode": "106029",
+    "versionName": "1.6.29",
+    "contentWarning": "CONTENT_WARNING_MIXED",
+    "sources": [
+      {
+        "id": "4709139914729853090",
+        "name": "AllManga",
+        "language": "en",
+        "homeUrl": "https://mkissa.to",
+        "mirrorUrls": [
+          "https://mkissa.to",
+          "https://isekai2nd.com"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Comix",
+    "packageName": "eu.kanade.tachiyomi.extension.en.comix",
+    "resources": {
+      "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/6ca40f6-0/tachiyomi-en.comix-v1.6.38.apk",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/comix/res/mipmap-xhdpi/ic_launcher.png",
+      "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/19c8e5f-0/tachiyomi-en.comix-v1.6.38.jar"
+    },
+    "extensionLib": "1.6",
+    "versionCode": "106038",
+    "versionName": "1.6.38",
+    "contentWarning": "CONTENT_WARNING_MIXED",
+    "sources": [
+      {
+        "id": "7537715367149829912",
+        "name": "Comix",
+        "language": "en",
+        "homeUrl": "https://comix.to",
+        "mirrorUrls": [
+          "https://comix.to",
+          "https://comix.ws"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "AnimePahe",
+    "packageName": "eu.kanade.tachiyomi.animeextension.en.animepahe",
+    "resources": {
+      "apkUrl": "https://raw.githubusercontent.com/yuzono/anime-repo/repo/apk/aniyomi-en.animepahe-v16.54.apk",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/anime-extensions@master/src/en/animepahe/res/mipmap-xhdpi/ic_launcher.png",
+      "jarUrl": ""
+    },
+    "extensionLib": "16.0",
+    "versionCode": "54",
+    "versionName": "16.54",
+    "contentWarning": "CONTENT_WARNING_SAFE",
+    "sources": [
+      {
+        "name": "AnimePahe",
+        "language": "en",
+        "id": "9163675745699695675",
+        "homeUrl": "https://animepahe.pw"
+      }
+    ]
+  },
+  {
+    "name": "Anikoto",
+    "packageName": "eu.kanade.tachiyomi.animeextension.en.anikoto",
+    "resources": {
+      "apkUrl": "https://raw.githubusercontent.com/yuzono/anime-repo/repo/apk/aniyomi-en.anikoto-v14.6.apk",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/anime-extensions@master/src/en/anikoto/res/mipmap-xhdpi/ic_launcher.png",
+      "jarUrl": ""
+    },
+    "extensionLib": "14.0",
+    "versionCode": "6",
+    "versionName": "14.6",
+    "contentWarning": "CONTENT_WARNING_SAFE",
+    "sources": [
+      {
+        "name": "Anikoto",
+        "language": "en",
+        "id": "4697393375201558791",
+        "homeUrl": "https://anikototv.to"
+      }
+    ]
+  }
+]
